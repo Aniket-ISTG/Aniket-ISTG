@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Sen</h1>
-<h3 align="center">A passionate Enginner from India</h3>
+<h3 align="center">A passionate Engineer from India</h3>
 
 - 🔭 I’m currently working on **Learning Qiskit**
 
