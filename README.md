@@ -1,5 +1,4 @@
 # Aniket Sen
->>>>>>> c801efa (SVG added)
 
 <br />
 
